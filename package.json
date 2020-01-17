@@ -1,0 +1,30 @@
+{
+  "name": "Mithril-tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "budo --live --open index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenry16/Mithril-tuto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenry16/Mithril-tuto/issues"
+  },
+  "homepage": "https://github.com/thenry16/Mithril-tuto#readme",
+  "dependencies": {
+    "mithril": "^2.0.4",
+    "tree": "^0.1.3"
+  },
+  "devDependencies": {
+    "@types/mithril": "^2.0.2",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
